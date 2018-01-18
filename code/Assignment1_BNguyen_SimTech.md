@@ -1,28 +1,37 @@
-# Assignment1 - Practice Designing Models (Template)
+# Assignment 1 - Practice Designing Models
 (remove: **text between brackets to be removed**)
 
-> * Participant name: Blake Nguyen
-> * Project Title: Recycling
+> * Participant Name: Blake Nguyen
+> * Project Title: Recycle-bot
 
 ## General Introduction
 
 A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
 
 
-![Image of Smart City](images/smartcity.png)
+![smartcity.png](./smartcity.png)
 
 
-Recycling has always been an intersting problem as it involves so many different variables that contibute to this problem. First, we are all consumers and unfortunately only **some** of the consumer population shows an interest in recycling. The problem that arises is how do we solve consumer waste? Consumer waste is said to be dated back to the fourth century BC, when archaeologial studies of ancient waste dumps show less waste. The limited amount of waste implied that waste was being recycled. One interesting fact that I encountered during 
+**Recycling** has always been an intersting problem as it involves so many different waste materials that contibute to this problem. First, we are all consumers and unfortunately only **some** of the consumer population show an interest in recycling. One aspect of recycling that I want to address is how to make recycling more convenient for the everyday household person. If we can figure out a way to make it more convenient it may promote better recycling habits. For example: a busy household may find it inconvenient to sort recyclable materials. Therefore, they may toss together recycable materials with non-recyclable materials because of the extra effort it takes to go through and sort the differences. The problem may be due to timing and convenience. How much time does it take to sort through recyclable and non-recyclable waste? Recycling dates back to the colonial era, this is because new materials were difficult to come by so they had to repurpose used materials. There are proposed solutions for recycling. However, even with the proposed solutions, there is still a vast amount of household that do not recycle.
 
+Citation: http://time.com/4568234/history-origins-recycling/
 
-
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
 ## Requirements (Experimental Design)
 
+
+
+**Hypothesis:**
+
+**Null hypothesis:**
+
+**Independent variables:**
+
+**Dependent variables:**
+
+
 (remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+
 
 ## Smart City (My Problem) Model
 
@@ -44,3 +53,6 @@ Recycling has always been an intersting problem as it involves so many different
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+
+
+
