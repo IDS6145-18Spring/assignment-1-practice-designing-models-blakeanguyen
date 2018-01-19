@@ -1,0 +1,5 @@
+## Smart City (My Problem) Simulation
+The type of simulation needed to solve my recycling problem is the agent-based simulation. I chose this particular simulation (agent-based simulation) because it provides an analysis of the actions and interactions of autonomous agents such as Recyclebot. Agent-based simulations also have the capability of viewing and assessing their effects on the system itself. This allows for the analysis of the relationship between the robot and its environment. In the agent-based simulation the agent is Recyclebot and his actions and interactions are within the specified environment of a household layout. The agent moves either autnomously or manually by the operator. The agent has specific goals and decisions between assessing non-recycable and recycable materials. The agent then classifies them into two catergories. Depending on the detected materials, if it is recyclable, the agent will proceed to repurpose the recycables into new materials. If it is non-recycable, the agent will destory/dispose of the waste properly.
+
+
+![Agent_Recycle-bot.png](/Users/BlakeNguyen/Desktop/Agent_Recycle-bot.png)
